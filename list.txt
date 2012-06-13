@@ -1,0 +1,24 @@
+<div class="loupan_list_item" id="loupan_item_233670" link="http://shanghai.alan.dev.aifang.com/loupan/233670.html" style="border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(221, 221, 221); ">
+    <a class="info_l" href="http://shanghai.alan.dev.aifang.com/loupan/233670.html" target="_blank">
+        <img width="160" height="120" alt="隶属大宁国际辐射圈，内环内24万平方米的国际社区" src="http://b.pic1.ajkimg.com/display/aifang/a9d52e7321b125f58d63ba24264aaf0b/160x120.jpg">
+    </a>
+    <div class="info_m">
+        <div class="txt1">
+            <a class="title" href="http://shanghai.alan.dev.aifang.com/loupan/233670.html" target="_blank">上海滩大宁城</a>
+            <div class="t_icon ic_tuangou"></div>                                 </div>
+        <div class="txt txt2">
+        大宁89平3房总价立减20万         </div>
+        <div class="txt txt3">地 址：[闸北 新客站] 中山北路933号（普善路口）</div>
+        <div class="txt txt4">户 型：3居室95平米； 3居室95平米        </div>
+                               <div class="txt txt5">
+                <i class="buliding">
+        小高层\高层        </i>
+                        <i class="maopi">
+        毛坯\精装修        </i>
+                        <i class="subway">
+        1号线        </i>
+                </div>
+            </div>
+    <span class="info_r">
+    <b>30000</b>元/平米    </span>
+</div>
